@@ -24,4 +24,3 @@ TodosList.propTypes = {
   setUpdate: PropTypes.func.isRequired,
 };
 export default TodosList;
-
